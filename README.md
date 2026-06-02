@@ -1,4 +1,4 @@
-# MyCare — Maxis Agentic Customer Support Bot
+# MyCare — Customer Support Bot
 
 A CLI-based agentic customer support bot built with LangChain and GPT-4o-mini (or Gemini). The agent autonomously decides which tool to call based on the customer's query — no hardcoded routing logic.
 
